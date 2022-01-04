@@ -38,8 +38,8 @@ except OSError:
 
     if os.path.isfile('.../index.js'):
 
-
-
+os.system('mv ... .....')
+os.system('cd ..... && npm install')
  	os.system('#')
 
  	os.system('#')
